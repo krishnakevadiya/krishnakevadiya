@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_kNG1U2eU8QlBlpK_5MxgCr8w_vGqXc-/view?usp=share_link?usp=sharing](https://drive.google.com/file/d/1_kNG1U2eU8QlBlpK_5MxgCr8w_vGqXc-/view?usp=share_link" target="_blank">Résumé</a>
 
--  Fun fact **i love gardening**
+
 <hr>
 
 <img align="center" src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
