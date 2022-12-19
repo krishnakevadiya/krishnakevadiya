@@ -74,24 +74,26 @@
 <hr>
 <!-- https://streak-stats.demolab.com/demo/  -->
 <div align="center">
-  <a href="https://github.com/krishnakevadiya/github-readme-streak-stats">
+  <a href="https://github.com/aniketparmar29/github-readme-streak-stats">
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="krishnakevadiya streak"
-      src="https://streak-stats.demolab.com?user=krishnakevadiya&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0B0658&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
+      alt="aniketparmar29 streak"
+      src="https://streak-stats.demolab.com?user=aniketparmar29&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
     />
   </a>
 </div>
+
 <br />
 <hr>
 <div align="center">
   <a href="https://github.com/krishnakevadiya/github-readme-stats">
     <img
       alt="krishnakevadiya Github Stats"
-      src="https://github-readme-stats.vercel.app/api?username=krishnakevadiya&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0B0658"
+      src="https://github-readme-stats.vercel.app/api?username=krishnakevadiya&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
     />
   </a>
 </div>
+
 <br>
 <hr>
 <div align="center">
