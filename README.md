@@ -56,7 +56,7 @@
 <h3 align="left">Git profile Trophies:</h3>
 
 <div align="center">
-  <p align="center" style="box-shadow: rgb(11, 6, 88) 0px 1px 20px 5px; background:rgb(11,6,88);border-radius:10px">
+  <p align="center" style="box-shadow: rgb(11, 6, 88) 0px 1px 20px 5px; background:#0B0658;border-radius:10px">
   <img src="https://github-profile-trophy.vercel.app/?username=krishnakevadiya&theme=radical&no-frame=false&no-bg=false&margin-w=2" width="100%"/>
 </p>
 </div>
