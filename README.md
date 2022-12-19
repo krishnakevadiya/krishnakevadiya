@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnakevadiya&label=Profile%20views&color=0e75b6&style=flat" alt="krishnakevadiya" /> </p>
 
-<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=0B0658&width=435&lines=HI%2C+I+am+krishna+kevadiya;A+Full+Stack+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFA07A&width=435&lines=HI%2C+I+am+krishna+kevadiya;A+Full+Stack+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
 
  
 
