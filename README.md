@@ -66,7 +66,7 @@
   <a href="https://github.com/krishnakevadiya/github-readme-stats">
     <img
       alt="krishnakevadiya Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakevadiya&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=0071E3"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakevadiya&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=FFA07A"
     />
   </a>
 </div>
@@ -79,7 +79,7 @@
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="krishnakevadiya streak"
-      src="https://streak-stats.demolab.com?user=krishnakevadiya&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
+      src="https://streak-stats.demolab.com?user=krishnakevadiya&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=FFA07A&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
     />
   </a>
 </div>
@@ -90,7 +90,7 @@
   <a href="https://github.com/krishnakevadiya/github-readme-stats">
     <img
       alt="krishnakevadiya Github Stats"
-      src="https://github-readme-stats.vercel.app/api?username=krishnakevadiya&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
+      src="https://github-readme-stats.vercel.app/api?username=krishnakevadiya&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=FFA07A"
     />
   </a>
 </div>
