@@ -15,7 +15,7 @@
 - ⚡ Fun fact **i love gardening**
 <hr>
 
-<img align="center" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="center" src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
 
 <hr>
 
@@ -56,7 +56,7 @@
 <h3 align="left">Git profile Trophies:</h3>
 
 <div align="center">
-  <p align="center" style="box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px; background:rgb(211, 0, 248);border-radius:10px">
+  <p align="center" style="box-shadow: rgb(11, 6, 88) 0px 1px 20px 5px; background:rgb(11,6,88);border-radius:10px">
   <img src="https://github-profile-trophy.vercel.app/?username=krishnakevadiya&theme=radical&no-frame=false&no-bg=false&margin-w=2" width="100%"/>
 </p>
 </div>
@@ -66,7 +66,7 @@
   <a href="https://github.com/krishnakevadiya/github-readme-stats">
     <img
       alt="krishnakevadiya Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakevadiya&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=0071E3"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakevadiya&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=0B0658"
     />
   </a>
 </div>
@@ -78,7 +78,7 @@
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="krishnakevadiya streak"
-      src="https://streak-stats.demolab.com?user=krishnakevadiya&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
+      src="https://streak-stats.demolab.com?user=krishnakevadiya&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0B0658&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
     />
   </a>
 </div>
@@ -88,7 +88,7 @@
   <a href="https://github.com/krishnakevadiya/github-readme-stats">
     <img
       alt="krishnakevadiya Github Stats"
-      src="https://github-readme-stats.vercel.app/api?username=krishnakevadiya&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
+      src="https://github-readme-stats.vercel.app/api?username=krishnakevadiya&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0B0658"
     />
   </a>
 </div>
