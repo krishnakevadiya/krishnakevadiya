@@ -38,7 +38,7 @@
   </tr>
   <tr>
   <td align=center>  <img src="https://img.icons8.com/color/48/null/chakra-ui.png"   width=100  ></td>
-   <td align=center> <img src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png"  height=100    ></td>
+   <td align=center> <img src="https://skillshack.blob.core.windows.net/uploads/express.webp"  height=100    ></td>
   <td align=center> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  height=100  ></td>
   <td align=center> <img src="https://img.icons8.com/plasticine/100/null/github.png"  height=100  ></td>
   </tr>
