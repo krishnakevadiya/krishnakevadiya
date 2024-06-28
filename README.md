@@ -29,41 +29,41 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="100" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="100" width="150">
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="100">
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="100" width="150">
     </td>
     <td align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-3-1175138.png" height="100">
+      <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-5-1175140.png" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/null/chakra-ui.png" width="100">
+      <img src="https://img.icons8.com/color/48/chakra-ui.png" width="100">
     </td>
     <td align="center">
-      <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="100">
     </td>
     <td align="center">
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="100">
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/plasticine/100/null/github.png" height="100">
+      <img src="https://img.icons8.com/plasticine/100/github.png" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-128/html-59-225995.png" width="100">
+      <img src="https://img.icons8.com/color/96/html-5.png" width="100">
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/128/888/888897.png" height="100">
+      <img src="https://img.icons8.com/color/96/css3.png" height="100">
     </td>
     <td align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" height="100">
+      <img src="https://img.icons8.com/color/96/javascript.png" height="100">
     </td>
     <td align="center">
       <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="100">
