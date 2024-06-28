@@ -14,7 +14,7 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/krishna-kevadiya-b5a6661ba/" target="_blank">LinkedIn</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1_kNG1U2eU8QlBlpK_5MxgCr8w_vGqXc-/view?usp=share_link" target="_blank">Résumé</a>
+
 
 <hr>
 
