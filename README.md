@@ -1,10 +1,10 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=krishnakevadiya&label=Profile%20views&color=0e75b6&style=flat" alt="krishnakevadiya" />
+  <img src="https://komarev.com/ghpvc/?username=krishnakevadiya&label=Profile%20views&color=gray&style=flat" alt="krishnakevadiya" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFA07A&width=435&lines=HI%2C+I+am+Krishna+Kevadiya;A+Full+Stack+Web+Developer;Hungry+To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFFFFF&width=435&lines=HI%2C+I+am+Krishna+Kevadiya;A+Full+Stack+Web+Developer;Hungry+To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -23,7 +23,7 @@
 <hr>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-kevadiya-b5a6661ba) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-kevadiya-b5a6661ba) 
 
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
@@ -75,14 +75,14 @@
 
 <h3 align="left">GitHub Profile Trophies:</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnakevadiya&theme=radical&no-frame=false&no-bg=false&margin-w=2" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnakevadiya&theme=algolia&no-frame=false&no-bg=false&margin-w=2" width="100%">
 </div>
 
 <hr>
 
 <div align="center">
   <a href="https://github.com/krishnakevadiya/github-readme-stats">
-    <img alt="krishnakevadiya Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakevadiya&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=FFA07A">
+    <img alt="krishnakevadiya Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakevadiya&langs_count=8&count_private=true&layout=compact&theme=algolia&title_color=FFFFFF&hide_border=true&bg_color=000000">
   </a>
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
   <a href="https://github.com/krishnakevadiya/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="krishnakevadiya streak" src="https://streak-stats.demolab.com?user=krishnakevadiya&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=FFA07A&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="krishnakevadiya streak" src="https://streak-stats.demolab.com?user=krishnakevadiya&theme=algolia&hide_border=true&border_radius=5&dates=FFFFFF&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats">
   </a>
 </div>
 
@@ -98,7 +98,7 @@
 
 <div align="center">
   <a href="https://github.com/krishnakevadiya/github-readme-stats">
-    <img alt="krishnakevadiya GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krishnakevadiya&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=FFA07A">
+    <img alt="krishnakevadiya GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krishnakevadiya&show_icons=true&locale=en&theme=algolia&hide_border=true&title_color=FFFFFF&bg_color=000000">
   </a>
 </div>
 
