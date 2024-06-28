@@ -29,73 +29,63 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/html-5.png" width="100">
+      <img src="https://img.icons8.com/color/96/html-5.png" width="50">
       <br />HTML
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/css3.png" height="100">
+      <img src="https://img.icons8.com/color/96/css3.png" width="50">
       <br />CSS
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/javascript.png" height="100">
+      <img src="https://img.icons8.com/color/96/javascript.png" width="50">
       <br />JavaScript
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50">
       <br />React
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/chakra-ui.png" width="50">
+      <br />Chakra UI
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/chakra-ui.png" width="100">
-      <br />Chakra UI
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50">
       <br />Tailwind CSS
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-ux-ui-logo-with-a-pen-tool-and-ruler-design-system-mark-color-tal-revivo.png" width="100">
-      <br />UX/UI
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/ios-filled/100/algorithm.png" height="100">
-      <br />DSA
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="100" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50">
       <br />Redux
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50">
       <br />Express.js
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/typescript.png" height="100">
+      <img src="https://img.icons8.com/color/48/typescript.png" width="50">
       <br />TypeScript
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="100" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50">
       <br />Node.js
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-5-1175140.png" height="100">
+      <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-5-1175140.png" width="50">
       <br />MongoDB
     </td>
     <td align="center">
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="100">
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50">
       <br />Git
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/plasticine/100/github.png" height="100">
+      <img src="https://img.icons8.com/plasticine/100/github.png" width="50">
       <br />GitHub
     </td>
     <td align="center">
-      <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="100">
+      <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50">
       <br />VS Code
     </td>
   </tr>
