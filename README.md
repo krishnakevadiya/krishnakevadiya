@@ -45,9 +45,7 @@
     <td align="center">
       <img src="https://img.icons8.com/color/48/chakra-ui.png" width="100">
     </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="100">
-    </td>
+   
     <td align="center">
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="100">
     </td>
