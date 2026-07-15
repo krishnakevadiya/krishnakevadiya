@@ -1,10 +1,10 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=krishnakevadiya&label=Profile%20views&color=gray&style=flat" alt="krishnaDonga" />
+  <img src="https://komarev.com/ghpvc/?username=krishnaDonga&label=Profile%20views&color=gray&style=flat" alt="krishnaDonga" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFFFFF&width=435&lines=HI%2C+I+am+Krishna+Kevadiya;A+Full+Stack+Web+Developer;Hungry+To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFFFFF&width=435&lines=HI%2C+I+am+Krishna+Donga;A+Full+Stack+Web+Developer;Hungry+To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" />
   </a>
 </h1>
 
